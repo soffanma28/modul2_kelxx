@@ -22,7 +22,7 @@
 
         <nav class="navbar bg-light">
             <div class="container-fluid">
-              <a class="navbar-brand" href="#">Bootstrap
+              <a class="navbar-brand" href="{{ route('admin.index') }}">Modul 2 SBD - Kelompok XX
               </a>
             </div>
         </nav>

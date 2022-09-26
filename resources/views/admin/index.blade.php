@@ -2,7 +2,7 @@
 
 @section('content')
 
-<h4 class="mt-5">Modul 2 SBD - Kelompok XX</h4>
+<h4 class="mt-5">Data Admin</h4>
 
 <a href="{{ route('admin.create') }}" type="button" class="btn btn-success rounded-3">Tambah Data</a>
 
